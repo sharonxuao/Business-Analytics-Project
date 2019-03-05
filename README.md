@@ -1,2 +1,2 @@
 # Business-Analytics-Project
-Predicting Airbnb Initial Listing Prices
+Predicting New Listing Price at Airbnb
